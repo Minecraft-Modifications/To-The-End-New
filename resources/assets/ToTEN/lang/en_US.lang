@@ -1,1 +1,7 @@
+//EXAMPLE: item.*item_name*.name=Local Name
 item.dremidiy_ingot.name=Dremidiy Ingot
+item.vandiliy_ingot.name=Vandiliy Ingot
+item.dremidiy_nugget.name=Dremidiy Nugget
+item.vandiliy_nugget.name=Vandiliy Nugget
+
+tile.dremidiy_ore.name=Dremidiy Ore

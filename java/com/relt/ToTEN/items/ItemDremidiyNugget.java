@@ -7,16 +7,14 @@ import com.relt.toten.utils.interfaces.IHasModel;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
 
-public class ItemDremidiyIngot extends Item implements IHasModel {
+public class ItemDremidiyNugget extends Item implements IHasModel {
 	
-	public ItemDremidiyIngot(String name) {
+	public ItemDremidiyNugget(String name){
 		setRegistryName(name);
 		setUnlocalizedName(name);
 		setCreativeTab(CreativeTabs.MATERIALS);
 		
-		
 		InitItems.ITEMS.add(this);
-		
 	}
 
 	@Override
@@ -24,5 +22,4 @@ public class ItemDremidiyIngot extends Item implements IHasModel {
 		Main.proxy.registerItemRenderer(this, 0, "inventory");
 		
 	}
-
 }

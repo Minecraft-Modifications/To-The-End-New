@@ -1,4 +1,4 @@
-package com.relt.ToTEN.utils.interfaces;
+package com.relt.toten.utils.interfaces;
 
 public interface IHasModel {
 	

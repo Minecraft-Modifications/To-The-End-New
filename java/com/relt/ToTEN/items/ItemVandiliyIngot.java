@@ -7,13 +7,13 @@ import com.relt.toten.utils.interfaces.IHasModel;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
 
-public class ItemDremidiyIngot extends Item implements IHasModel {
+public class ItemVandiliyIngot extends Item implements IHasModel {
 	
-	public ItemDremidiyIngot(String name) {
+	public ItemVandiliyIngot(String name) {
 		setRegistryName(name);
 		setUnlocalizedName(name);
 		setCreativeTab(CreativeTabs.MATERIALS);
-		
+		setMaxStackSize(16);
 		
 		InitItems.ITEMS.add(this);
 		
@@ -24,5 +24,5 @@ public class ItemDremidiyIngot extends Item implements IHasModel {
 		Main.proxy.registerItemRenderer(this, 0, "inventory");
 		
 	}
-
+	
 }

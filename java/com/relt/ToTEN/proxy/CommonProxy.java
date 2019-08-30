@@ -1,4 +1,4 @@
-package com.relt.ToTEN.proxy;
+package com.relt.toten.proxy;
 
 import net.minecraft.item.Item;
 

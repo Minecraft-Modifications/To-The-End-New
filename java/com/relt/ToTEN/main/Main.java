@@ -1,4 +1,4 @@
-package com.relt.ToTEN.main;
+package com.relt.toten.main;
 
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
@@ -8,8 +8,8 @@ import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
-import com.relt.ToTEN.proxy.CommonProxy;
-import com.relt.ToTEN.reference.Reference;
+import com.relt.toten.proxy.CommonProxy;
+import com.relt.toten.reference.Reference;
 
 @Mod(modid = Reference.MODID, name = Reference.NAME, version = Reference.VERSION,
 	acceptedMinecraftVersions = Reference.ACCEPTED_MINECRAFT_VERSIONS)

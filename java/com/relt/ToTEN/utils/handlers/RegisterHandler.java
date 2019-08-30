@@ -1,8 +1,10 @@
-package com.relt.ToTEN.utils.handlers;
+package com.relt.toten.utils.handlers;
 
-import com.relt.ToTEN.init.InitItems;
-import com.relt.ToTEN.utils.interfaces.IHasModel;
+import com.relt.toten.init.InitBlocks;
+import com.relt.toten.init.InitItems;
+import com.relt.toten.utils.interfaces.IHasModel;
 
+import net.minecraft.block.Block;
 import net.minecraft.item.Item;
 import net.minecraftforge.client.event.ModelRegistryEvent;
 import net.minecraftforge.event.RegistryEvent;
@@ -13,8 +15,13 @@ import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 public class RegisterHandler {
 	
 	@SubscribeEvent
-	public static void OnItemRegister(RegistryEvent.Register<Item> event){
+	public static void onItemRegister(RegistryEvent.Register<Item> event){
 		event.getRegistry().registerAll(InitItems.ITEMS.toArray(new Item[0]));
+	}
+	
+	@SubscribeEvent
+	public static void onBlockRegister(RegistryEvent.Register<Block> event){
+		event.getRegistry().registerAll(InitBlocks.BLOCKS.toArray(new Block[0]));
 	}
 	
 	@SubscribeEvent
@@ -23,7 +30,12 @@ public class RegisterHandler {
 			if(item instanceof IHasModel){
 				((IHasModel)item).registerModels();
 			}
-		} 
+		}
+		for(Block block : InitBlocks.BLOCKS){
+			if(block instanceof IHasModel){
+				((IHasModel)block).registerModels();
+			}
+		}
 	}
 
 }

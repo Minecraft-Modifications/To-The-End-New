@@ -1,4 +1,4 @@
-package com.relt.ToTEN.proxy;
+package com.relt.toten.proxy;
 
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.item.Item;

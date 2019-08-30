@@ -1,1 +1,7 @@
+//EXAMPLE: item.*item_name*.name=Локальное имя
 item.dremidiy_ingot.name=Дремидиевый слиток
+item.vandiliy_ingot.name=Вандилевый слиток
+item.dremidiy_nugget.name=Дремидиевый кусочек
+item.vandiliy_nugget.name=Вандилевый кусочек
+
+tile.dremidiy_ore.name=Дремидиевая руда
