@@ -1,0 +1,16 @@
+[
+{
+  "modid": "toten",
+  "name": "To The End New",
+  "description": "New: Armor, Tools, Weapons, Ore`s, Materials, Bosses...",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "reltmods.ml",
+  "updateUrl": "reltmods.ml",
+  "authorList": ["relt, d1ede"],
+  "credits": "Donation page: https://www.donationalerts.com/r/tehrelt",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": *[]
+}
+]
