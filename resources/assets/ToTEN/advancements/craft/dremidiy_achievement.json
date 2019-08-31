@@ -1,0 +1,28 @@
+{
+    "display": {
+        "icon": {
+            "item": "toten:dremidiy_ingot",
+            "data": 6
+        },
+        "title": {
+            "translate": "advancements.toten.dremidiy.title"
+        },
+        "description": {
+            "translate": "advancements.toten.dremidiy.description"
+        },
+        "frame": "goal"
+    },
+    "parent": "toten:craft/root",
+    "criteria": {
+        "recipe_unlocked": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items":[
+                    {
+                        "item": "toten:dremidiy_ingot"
+                    }
+                ] 
+            }
+        }
+    }
+}

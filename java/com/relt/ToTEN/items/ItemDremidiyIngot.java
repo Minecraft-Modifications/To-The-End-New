@@ -12,7 +12,7 @@ public class ItemDremidiyIngot extends Item implements IHasModel {
 	public ItemDremidiyIngot(String name) {
 		setRegistryName(name);
 		setUnlocalizedName(name);
-		setCreativeTab(CreativeTabs.MATERIALS);
+		setCreativeTab(Main.MATERIAL_TAB);
 		
 		
 		InitItems.ITEMS.add(this);

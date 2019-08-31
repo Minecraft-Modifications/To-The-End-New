@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+        "item": "toten:vandiliy_ingot"
+        }
+    ],
+    "result": {
+        "item": "toten:vandiliy_nugget",
+        "count": 9
+    }
+}

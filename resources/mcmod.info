@@ -7,9 +7,9 @@
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["relt, d1ede"],
+  "authorList": ["relt, d1ede, x4ris, rain"],
   "credits": "Donation page: https://www.donationalerts.com/r/tehrelt",
-  "logoFile": "",
+  "logoFile": "logo.png",
   "screenshots": [],
   "dependencies": *[]
 }

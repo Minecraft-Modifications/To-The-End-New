@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "toten:dremidiy_nugget"
+    }
+  },
+  "result": {
+    "item": "toten:dremidiy_ingot",
+    "count": 1
+  }
+}

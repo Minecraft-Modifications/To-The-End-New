@@ -1,0 +1,31 @@
+{
+    "display": {
+        "icon": {
+            "item": "toten:items/dremidiy_ingot"
+        },
+        "title": {
+            "translate": "advancements_toten"
+        },
+        "description": {
+            "translate": "advancements_toten_description"
+        },
+        "background": "toten:blocks/vandiliy_ore",
+        "show_toast": true,
+        "announce_to_chat": true
+    },
+    "criteria": {
+        "totenblock": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions":{
+                "items" :[
+                    {
+                        "item" : "toten:items/dremidiy_ingot"
+                    }
+                ] 
+            }
+        }
+    },
+    "requirements": [
+        ["inventory_changed"]
+    ]
+}

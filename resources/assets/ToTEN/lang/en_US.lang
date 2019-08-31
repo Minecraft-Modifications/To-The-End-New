@@ -5,3 +5,8 @@ item.dremidiy_nugget.name=Dremidiy Nugget
 item.vandiliy_nugget.name=Vandiliy Nugget
 
 tile.dremidiy_ore.name=Dremidiy Ore
+tile.vandiliy_ore.name=Vandiliy Ore
+
+itemGroup.block_tab=To The End New: Blocks
+itemGroup.material_tab=To The End New: Materials 
+itemGroup.tool_tab=To The End New: Tools

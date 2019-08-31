@@ -12,7 +12,7 @@ public class ItemVandiliyIngot extends Item implements IHasModel {
 	public ItemVandiliyIngot(String name) {
 		setRegistryName(name);
 		setUnlocalizedName(name);
-		setCreativeTab(CreativeTabs.MATERIALS);
+		setCreativeTab(Main.MATERIAL_TAB);
 		setMaxStackSize(16);
 		
 		InitItems.ITEMS.add(this);

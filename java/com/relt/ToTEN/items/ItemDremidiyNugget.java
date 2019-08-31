@@ -12,7 +12,7 @@ public class ItemDremidiyNugget extends Item implements IHasModel {
 	public ItemDremidiyNugget(String name){
 		setRegistryName(name);
 		setUnlocalizedName(name);
-		setCreativeTab(CreativeTabs.MATERIALS);
+		setCreativeTab(Main.MATERIAL_TAB);
 		
 		InitItems.ITEMS.add(this);
 	}
