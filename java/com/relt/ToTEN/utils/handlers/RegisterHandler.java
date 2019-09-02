@@ -2,6 +2,7 @@ package com.relt.toten.utils.handlers;
 
 import com.relt.toten.init.InitBlocks;
 import com.relt.toten.init.InitItems;
+import com.relt.toten.utils.FurnaceRecipes;
 import com.relt.toten.utils.interfaces.IHasModel;
 
 import net.minecraft.block.Block;
@@ -36,6 +37,10 @@ public class RegisterHandler {
 				((IHasModel)block).registerModels();
 			}
 		}
+	}
+
+	public static void otherRegister(){
+		FurnaceRecipes.registerRecipes();
 	}
 
 }

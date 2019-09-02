@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " A ",
+      "ABA",
+      " A "
+    ],
+    "key": {
+      "A": {
+        "item": "toten:dremidiy_ingot"
+      },
+     "B":{
+         "item": "minecraft:stick"
+     }
+    },
+    "result": {
+      "item": "toten:dremidiy_stick",
+      "count": 1
+    }
+  }

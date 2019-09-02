@@ -1,0 +1,12 @@
+//EXAMPLE: item.*item_name*.name=Lokaler Name
+item.dremidiy_ingot.name=§6Dremidiy Barren
+item.vandiliy_ingot.name=Vandiliy Barren
+item.dremidiy_nugget.name=§6Dremidiy Nugget
+item.vandiliy_nugget.name=Vandiliy Nugget
+
+tile.dremidiy_ore.name=Dremidiy Erz
+tile.vandiliy_ore.name=Vandiliy Erz
+
+itemGroup.block_tab=Ende Neu: Blöcke
+itemGroup.material_tab=Ende Neu: Materialien 
+itemGroup.tool_tab=Ende Neu: Werkzeuge

@@ -1,0 +1,11 @@
+{
+    "pools": [{
+        "name": "chest_1",
+        "rolls": 2,
+        "entries": [{
+            "type": "item",
+            "name": "toten:dremidiy_nugget",
+            "weight": 6
+        }]
+    }]
+}

@@ -1,8 +1,11 @@
 //EXAMPLE: item.*item_name*.name=Local Name
-item.dremidiy_ingot.name=Dremidiy Ingot
-item.vandiliy_ingot.name=Vandiliy Ingot
-item.dremidiy_nugget.name=Dremidiy Nugget
-item.vandiliy_nugget.name=Vandiliy Nugget
+item.dremidiy_ingot.name=§6Dremidiy Ingot
+item.vandiliy_ingot.name=§9Vandiliy Ingot
+item.dremidiy_nugget.name=§6Dremidiy Nugget
+item.vandiliy_nugget.name=§9Vandiliy Nugget
+item.dremidiy_pickaxe.name=§6Dremidiy pickaxe
+item.dremidiy_stick.name=§6Dremidiy reinforced stick
+item.Vandiliy_pickaxe.name=§9Дремидиевый палка
 
 tile.dremidiy_ore.name=Dremidiy Ore
 tile.vandiliy_ore.name=Vandiliy Ore
@@ -10,3 +13,4 @@ tile.vandiliy_ore.name=Vandiliy Ore
 itemGroup.block_tab=To The End New: Blocks
 itemGroup.material_tab=To The End New: Materials 
 itemGroup.tool_tab=To The End New: Tools
+itemGroup.misc_tab=To The End New: Misc

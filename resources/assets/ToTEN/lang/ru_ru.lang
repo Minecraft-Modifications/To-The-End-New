@@ -1,8 +1,11 @@
 //EXAMPLE: item.*item_name*.name=Локальное имя
-item.dremidiy_ingot.name=Дремидиевый слиток
-item.vandiliy_ingot.name=Вандилевый слиток
-item.dremidiy_nugget.name=Дремидиевый кусочек
-item.vandiliy_nugget.name=Вандилевый кусочек
+item.dremidiy_ingot.name=§6Дремидиевый слиток
+item.vandiliy_ingot.name=§9Вандилевый слиток
+item.dremidiy_nugget.name=§6Дремидиевый кусочек
+item.vandiliy_nugget.name=§9Вандилевый кусочек
+item.dremidiy_pickaxe.name=§6Дремидиевая кирка
+item.dremidiy_stick.name=§6Палка обогощеная дремидием
+item.vandiliy_pickaxe.name=§9Вандилевая кирка
 
 tile.dremidiy_ore.name=Дремидиевая руда
 tile.vandiliy_ore.name=Вандилевая руда
@@ -10,3 +13,4 @@ tile.vandiliy_ore.name=Вандилевая руда
 itemGroup.block_tab=To The End New: Блоки 
 itemGroup.material_tab=To The End New: Материалы
 itemGroup.tool_tab=To The End New: Инструменты
+itemGroup.misc_tab=To The End New: Прочее
