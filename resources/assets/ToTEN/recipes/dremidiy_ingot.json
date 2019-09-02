@@ -1,13 +1,19 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "AAA",
-    "AAA",
-    "AAA"
+    "CAC",
+    "ABA",
+    "CAC"
   ],
   "key": {
     "A": {
-      "item": "toten:dremidiy_nugget"
+      "item": "minecraft:gold_ingot"
+    },
+    "B":{
+      "item": "minecraft:diamond"
+    },
+    "C":{
+      "item":"minecraft:redstone"
     }
   },
   "result": {

@@ -3,14 +3,16 @@ item.dremidiy_ingot.name=§6Dremidiy Ingot
 item.vandiliy_ingot.name=§9Vandiliy Ingot
 item.dremidiy_nugget.name=§6Dremidiy Nugget
 item.vandiliy_nugget.name=§9Vandiliy Nugget
-item.dremidiy_pickaxe.name=§6Dremidiy pickaxe
+item.dremidiy_pickaxe.name=§6Dremidiy Pickaxe
 item.dremidiy_stick.name=§6Dremidiy reinforced stick
-item.Vandiliy_pickaxe.name=§9Дремидиевый палка
+item.Vandiliy_pickaxe.name=§9Vandiliy Pickaxe
+item.vermut_katana.name=§5Vermut Katana
+item.vermut_ingot.name=§5Vermut Ingot
 
 tile.dremidiy_ore.name=Dremidiy Ore
 tile.vandiliy_ore.name=Vandiliy Ore
 
 itemGroup.block_tab=To The End New: Blocks
 itemGroup.material_tab=To The End New: Materials 
-itemGroup.tool_tab=To The End New: Tools
+itemGroup.tool_tab=To The End New: Tools and Weapon
 itemGroup.misc_tab=To The End New: Misc

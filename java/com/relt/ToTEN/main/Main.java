@@ -34,6 +34,7 @@ public class Main {
 	//Materials
 	public static Item.ToolMaterial DREMIDIY_MATERIAL = EnumHelper.addToolMaterial("toten:dremidiy", 4, 3072, 15.0F, 6.0F, 15);
 	public static Item.ToolMaterial VANDILIY_MATERIAL = EnumHelper.addToolMaterial("toten:vandiliy", 4, 3072, 22.0F, 6.0F, 15);
+	public static Item.ToolMaterial VERMUT_MATERIAL = EnumHelper.addToolMaterial("toten:vermut", 0, 3576, 0F, 20F, 15);
 	
 	
 	//Creative Tab

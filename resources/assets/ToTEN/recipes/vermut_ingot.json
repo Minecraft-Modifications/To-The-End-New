@@ -7,18 +7,16 @@
     ],
     "key": {
       "A": {
-        "item": "minecraft:dye",
-        "data": 4
+        "item": "minecraft:blaze_rod"
       },
       "B":{
         "item": "toten:dremidiy_ingot"
       },
       "C":{
-        "item":"minecraft:ender_pearl"
+        "item":"minecraft:quartz"
       }
     },
     "result": {
-      "item": "toten:vandiliy_ingot",
-      "count": 1
+      "item": "toten:vermut_ingot"
     }
   }
