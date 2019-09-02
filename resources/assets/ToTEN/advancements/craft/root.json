@@ -1,31 +1,29 @@
 {
     "display": {
         "icon": {
-            "item": "toten:items/dremidiy_ingot"
+            "item": "toten:vermut_ingot"
         },
         "title": {
-            "translate": "advancements_toten"
+            "translate": "advancements.toten.root.title"
         },
         "description": {
-            "translate": "advancements_toten_description"
+            "translate": "advancements.toten.root.description"
         },
-        "background": "toten:blocks/vandiliy_ore",
+        "background": "toten:vandiliy_ore",
         "show_toast": true,
         "announce_to_chat": true
     },
     "criteria": {
-        "totenblock": {
+        "craft": {
             "trigger": "minecraft:inventory_changed",
-            "conditions":{
-                "items" :[
+            "conditions": {
+                "items":[
                     {
-                        "item" : "toten:items/dremidiy_ingot"
+                        "item": "toten:dremidiy_ingot"
                     }
-                ] 
+                ]
             }
         }
     },
-    "requirements": [
-        ["inventory_changed"]
-    ]
+    "requirements": [["inventory_changed"]]
 }

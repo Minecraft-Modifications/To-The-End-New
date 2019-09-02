@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " CA",
+      "DAC",
+      "BD "
+    ],
+    "key": {
+      "A": {
+        "item": "toten:vermut_ingot"
+      },
+      "B": {
+        "item": "toten:dremidiy_stick"
+      },
+      "C":{
+          "item":"toten:vandiliy_ingot"
+      },
+      "D":{
+          "item":"toten:dremidiy_ingot"
+      }
+    },
+    "result": {
+      "item": "toten:vermut_katana"
+    }
+  }
