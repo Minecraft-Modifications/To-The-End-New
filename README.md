@@ -41,9 +41,13 @@ _Official modification language:_ **Russian**
     > **Located at NETHER _unknown heights_**
 2. ## Item`s
     1. ### Pickaxe`s
-        > 1. Dremidiy Pickaxe
-        > ![Imgur](https://i.imgur.com/ZSfxYUe.png)
-        > Harvest Level:**Diamond+(4)** 
-        > 2. Vandiliy Pickaxe
-        > ![Imgur](https://i.imgur.com/x9ELf6S.png)
-        > Harvest level: **Diamond+(4)**
+    > 1. Dremidiy Pickaxe
+    > ![Imgur](https://i.imgur.com/ZSfxYUe.png)
+    > Harvest Level:**Diamond+(4)** 
+    > 2. Vandiliy Pickaxe
+    > ![Imgur](https://i.imgur.com/x9ELf6S.png)
+    > Harvest level: **Diamond+(4)**
+    2. ### Weapon
+    > 1. Vermut Katana
+    > Attack damage: **24**
+    > ![Imgur](https://i.imgur.com/zgDsijS.png)
