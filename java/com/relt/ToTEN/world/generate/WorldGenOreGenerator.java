@@ -47,6 +47,9 @@ public class WorldGenOreGenerator implements IWorldGenerator {
 
 		case 1:
 
+			runGenerator(vermut_ore, world, random, chunkX, chunkZ, 40, 19, 60);
+
+			break;
 		}
 	}
 

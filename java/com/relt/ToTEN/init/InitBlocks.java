@@ -22,7 +22,7 @@ public class InitBlocks {
 	public static final Block DREMIDIY_ORE = new DremidiyOre("dremidiy_ore", Material.ROCK);
 	public static final Block VANDILIY_ORE = new VandiliyOre("vandiliy_ore", Material.ROCK);
 	public static final Block VERMUT_ORE = new VermutOre("vermut_ore", Material.ROCK);
-	public static final Block ADVANCED_CRAFTING_TABLE = new AdvancedCraftingTable ("advanced_crafting_table", Material.WOOD);
+	//public static final Block ADVANCED_CRAFTING_TABLE = new AdvancedCraftingTable ("advanced_crafting_table", Material.WOOD);
 	
 	
 }

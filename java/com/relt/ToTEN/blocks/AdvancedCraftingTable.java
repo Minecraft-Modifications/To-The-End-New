@@ -43,7 +43,7 @@ public class AdvancedCraftingTable extends Block implements IHasModel{
 	 }
 	 
 	public AdvancedCraftingTable(String name, Material material) {
-		super(material);
+		super(material.WOOD);
 		
 		setRegistryName(name);
 		setUnlocalizedName(name);
