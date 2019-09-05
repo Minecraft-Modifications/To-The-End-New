@@ -19,8 +19,7 @@ public class ItemVermutPlate extends Item implements IHasModel {
 
 	@Override
 	public void registerModels() {
-		// TODO Auto-generated method stub
-		
+		Main.proxy.registerItemRenderer(this, 0, "inventory");
 	}
 
 }

@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "   ",
+      "   "
+    ],
+    "key": {
+      "A": {
+        "item": "toten:vandiliy_ingot"
+      }
+    },
+    "result": {
+      "item": "toten:vandiliy_plate"
+    }
+  }

@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "   ",
+      "   "
+    ],
+    "key": {
+      "A": {
+        "item": "toten:vermut_ingot"
+      }
+    },
+    "result": {
+      "item": "toten:vermut_plate"
+    }
+  }

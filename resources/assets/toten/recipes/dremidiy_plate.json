@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "   ",
+      "   "
+    ],
+    "key": {
+      "A": {
+        "item": "toten:dremidiy_ingot"
+      }
+    },
+    "result": {
+      "item": "toten:dremidiy_plate"
+    }
+  }
