@@ -5,13 +5,18 @@ item.dremidiy_nugget.name=§6Dremidiy Nugget
 item.vandiliy_nugget.name=§9Vandiliy Nugget
 item.dremidiy_pickaxe.name=§6Dremidiy Pickaxe
 item.dremidiy_stick.name=§6Dremidiy reinforced stick
-item.Vandiliy_pickaxe.name=§9Vandiliy Pickaxe
+item.vandiliy_pickaxe.name=§9Vandiliy Pickaxe
 item.vermut_katana.name=§5Vermut Katana
 item.vermut_ingot.name=§5Vermut Ingot
+item.dremidiy_plate.name=§6Dremidiy Plate
+item.vandiliy_plate.name=§9Vandiliy Plate
+item.vermut_plate.name=§5Vermut Plate
+item.neuron.name=Neuron
 
 tile.dremidiy_ore.name=Dremidiy Ore
 tile.vandiliy_ore.name=Vandiliy Ore
 tile.vermut_ore.name=§5Vermut Ore
+tile.advanced_crafting_table.name=Advanced Crafting Table
 
 itemGroup.block_tab=To The End New: Blocks
 itemGroup.material_tab=To The End New: Materials 

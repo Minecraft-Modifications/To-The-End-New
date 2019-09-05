@@ -8,7 +8,12 @@ import net.minecraft.item.ItemStack;
 
 public class BlockTab extends CreativeTabs {
 
-
+	@Override
+	public CreativeTabs setBackgroundImageName(String texture) {
+		setBackgroundImageName("toten:textures/blocks/dremidiy_ore.png");
+		return super.setBackgroundImageName(texture);
+	}
+	
 	public BlockTab(String label) {
 		super(label);
 	}
