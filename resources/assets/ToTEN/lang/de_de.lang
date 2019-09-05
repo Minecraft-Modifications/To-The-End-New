@@ -1,12 +1,24 @@
 //EXAMPLE: item.*item_name*.name=Lokaler Name
 item.dremidiy_ingot.name=§6Dremidiy Barren
-item.vandiliy_ingot.name=Vandiliy Barren
+item.vandiliy_ingot.name=§9Vandiliy Barren
 item.dremidiy_nugget.name=§6Dremidiy Nugget
-item.vandiliy_nugget.name=Vandiliy Nugget
+item.vandiliy_nugget.name=§9Vandiliy Nugget
+item.dremidiy_pickaxe.name=§6Dremidiy Spitzhacke
+item.dremidiy_stick.name=§6Dremidiy verstärkt-stick
+item.vandiliy_pickaxe.name=§9Vandiliy Spitzhacke
+item.vermut_katana.name=§5Vermut Katana
+item.vermut_ingot.name=§5Vermut Barren
+item.dremidiy_plate.name=§6Dremidiy Platte
+item.vandiliy_plate.name=§9Vandiliy Platte
+item.vermut_plate.name=§5Vermut Platte
+item.neuron.name=Neuron
 
 tile.dremidiy_ore.name=Dremidiy Erz
 tile.vandiliy_ore.name=Vandiliy Erz
+tile.vermut_ore.name=§5Vermut Erz
+tile.advanced_crafting_table.name=Advanced Crafting Table
 
 itemGroup.block_tab=Ende Neu: Blöcke
 itemGroup.material_tab=Ende Neu: Materialien 
-itemGroup.tool_tab=Ende Neu: Werkzeuge
+itemGroup.tool_tab=Ende Neu: Werkzeuge und Waffen
+itemGroup.misc_tab=Ende Neu: Misc

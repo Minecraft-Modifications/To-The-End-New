@@ -1,22 +1,27 @@
 {
-    "type": "minecraft:crafting_shaped",
+    "type": "toten:advanced_crafting_table",
     "pattern": [
-      " CA",
-      "DAC",
-      "BD "
+      "  CD ",
+      "  BDD",
+      "  BDD",
+      "EEBEE",
+      "  A  "
     ],
     "key": {
       "A": {
-        "item": "toten:vermut_ingot"
-      },
-      "B": {
         "item": "toten:dremidiy_stick"
       },
+      "B": {
+        "item": "toten:dremidiy_plate"
+      },
       "C":{
-          "item":"toten:vandiliy_ingot"
+          "item":"toten:dremidiy_cap"
       },
       "D":{
-          "item":"toten:dremidiy_ingot"
+          "item":"toten:sharpened_iron"
+      },
+      "E":{
+        "item":"toten:dremidiy_hand_element"
       }
     },
     "result": {

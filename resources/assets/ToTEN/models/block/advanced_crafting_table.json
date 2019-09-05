@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+      "particle": "toten:blocks/advanced_crafting_table_side",
+      "down": "toten:blocks/advanced_crafting_table",
+      "up": "toten:blocks/advanced_crafting_table",
+      "east": "toten:blocks/advanced_crafting_table_side",
+      "west": "toten:blocks/advanced_crafting_table_side",
+      "north": "toten:blocks/advanced_crafting_table_side",
+      "south": "toten:blocks/advanced_crafting_table_side"
+    }
+  }

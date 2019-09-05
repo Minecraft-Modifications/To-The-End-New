@@ -3,7 +3,7 @@ package com.relt.toten.proxy;
 import com.relt.toten.blocks.VandiliyOre;
 import com.relt.toten.init.InitBlocks;
 import com.relt.toten.init.InitItems;
-import com.relt.toten.world.generate.VandiliyGenerator;
+import com.relt.toten.world.generate.WorldGenOreGenerator;
 
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
@@ -15,8 +15,4 @@ public class CommonProxy {
 	
 	public void registerItemRenderer(Item item, int meta, String id){}
 	
-	
-	public void Postinit(FMLPostInitializationEvent e){    
-		GameRegistry.registerWorldGenerator(new VandiliyGenerator(), 0);
-	}
 }

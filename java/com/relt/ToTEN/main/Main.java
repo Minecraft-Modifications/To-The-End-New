@@ -45,6 +45,8 @@ public class Main {
 	public static final CreativeTabs MISC_TAB = new MiscTab ("misc_tab");
 
 	
+	
+	
 	@EventHandler
 	public static void preInit(FMLPreInitializationEvent event) {
 		
@@ -52,7 +54,8 @@ public class Main {
 	
 	@EventHandler
 	public static void Init(FMLInitializationEvent event) {
-		RegisterHandler.otherRegister();	
+		RegisterHandler.init();
+		RegisterHandler.otherRegister();
 	};
 	
 	@EventHandler
