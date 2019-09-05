@@ -23,27 +23,31 @@ _Official modification language:_ **Russian**
 1. ### Ore`s
     > Mod have 3 ore in this moment
     > 1. Dremidiy
-    > ![Imgur](https://i.imgur.com/veojKG6.png)
-    > **Dremidiy Ingot:**
-    >  ![Imgur](https://i.imgur.com/nfaRExr.png)
-    > Located at 16 - 1 Heights
+        > ![Imgur](https://i.imgur.com/veojKG6.png)
+        > **Dremidiy Ingot:**
+        >  ![Imgur](https://i.imgur.com/nfaRExr.png)
+        > Located at 16 - 1 Heights
 
     > 2. Vandiliy
-    > ![Imgur](https://i.imgur.com/VDvd3hx.png)
-    > **Vandiliy Ingot:**
-    >  ![Imgur](https://i.imgur.com/Inwiu8q.png)
-    > Located at 10 - 1 Heights 
+        > ![Imgur](https://i.imgur.com/VDvd3hx.png)
+        > **Vandiliy Ingot:**
+        >  ![Imgur](https://i.imgur.com/Inwiu8q.png)
+        > Located at 10 - 1 Heights 
 
     > 3. _Vermut (in development)_
-    >![Imgur](https://i.imgur.com/qlLwR27.png)
-    > **Vermut Ingot:**
-    > ![Imgur](https://i.imgur.com/Ag3rZOP.png)  
-    > Located at NETHER _*unknown heights*_
+        >![Imgur](https://i.imgur.com/qlLwR27.png)
+        > **Vermut Ingot:**
+        > ![Imgur](https://i.imgur.com/Ag3rZOP.png)  
+        > Located at NETHER _*unknown heights*_
 2. ## Item`s
     1. ### Pickaxe`s
         > 1. Dremidiy Pickaxe
-            >Harvest Level: Diamond+(4) 
-        > ![Imgur](https://i.imgur.com/ZSfxYUe.png)
+            > Harvest Level: *Diamond+(4)* 
+            > ![Imgur](https://i.imgur.com/ZSfxYUe.png)
         > 2. Vandiliy Pickaxe
-            >Harvest level: Diamond+(4)
-        >![Imgur](https://i.imgur.com/x9ELf6S.png)
+            > Harvest level: *Diamond+(4)*
+            > ![Imgur](https://i.imgur.com/x9ELf6S.png)
+    2. ### Weapon
+        > 1. Vermut Katana
+            > Attack damage: *24* 
+            > ![Imgur](https://i.imgur.com/zgDsijS.png)
